@@ -1,3 +1,8 @@
 Made by: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
 
-# Paulista's Adventure
+# Paulista's Adventure - Documentação
+<br>
+## Introdução
+
+
+
