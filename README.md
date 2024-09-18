@@ -250,9 +250,83 @@ Caso o jogador caia até um limite ou ele colidir com algum obstáculo, irá abr
 Caso o jogador aperte o botão de reiniciar, o jogador irá voltar para o menu principal
 <br>
 
-## Video
---
+## Movimento:
 
+ <table>
+<thead>
+  <th>
+	  
+(img codigo)
+
+</th>
+</thead>
+</table>
+<br>
+ • No Start:
+ <br>
+O timescale já começa no 1
+<br>
+O vector 3 tem seus valores definidos
+<br>
+Define a posição do personagem de acordo com o vector 3
+<br>
+ • No uptade:
+ <br>
+Caso o TimeScale continue sendo 1, o personagem continuará andando para frente e pulando, isso até chegar no limite imposto que quando alcançado, carregará uma nova cena, caso o TimeScale seja 0, pausara o personagem
+<br>
+Quando o personagem pular, irá mudar a animação dele, quando ele estiver andando será outra animação
+<br>
+
+## Transição
+ <table>
+<thead>
+  <th>
+	  
+(img transição)
+
+</th>
+</thead>
+</table>
+<br>
+Quando o jogador terminar uma fase, irá carregar uma tela de transição, onde aparecerá onde será a próxima fase
+<br>
+Código:
+ <table>
+<thead>
+  <th>
+	  
+(img codigo)
+
+</th>
+</thead>
+</table>
+<br>
+Quando carregar a transição, basta o jogador apertar qualquer tecla para seguir para a próxima fase
+
+## Som
+No menu principal, é possível ligar e desligar o som, aumentar ou diminuir, essa opção foi feita separa, o volume foi configurado no próprio unity
+<br>
+Já a parte de desligar/ligar o som foi feita por um script, onde se encontra um botão no menu que é possível ligar/desligar
+<br>
+Código:
+ <table>
+<thead>
+  <th>
+	  
+(img codigo)
+
+</th>
+</thead>
+</table>
+<br>
+O jogo já irá começar com o som ativado, para desativar basta clicar no botão, com isso ele irá desligar o som e mudar o design para indicar que desligou
+<br>
+Para ligar, basta clicar nele de novo, ele irá ativar o som e mudar o design para indicar que está ligado
+<br>
+## Video
+<br>
+--
+<br>
 ## Links
 
 > ### Jogo
