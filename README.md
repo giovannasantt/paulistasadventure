@@ -28,7 +28,6 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
   <th>
 	  
 ![image](https://github.com/user-attachments/assets/4ed86fb6-f4bc-46df-b9d9-67cf0ef575a5)
-(desenho do magno)
 
 </th>
 </thead>
@@ -58,7 +57,6 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
   <th>
 
 ![image](https://github.com/user-attachments/assets/5b6ae28c-7946-429a-a825-99c0f8881666)
-(desenho policia)
 
 </th>
 </thead>
@@ -237,7 +235,8 @@ Caso o jogador perca o jogo, irá aparecer uma tela de game over, onde ela segui
  <table>
 <thead>
   <th>
-	  
+	![gameover](https://github.com/user-attachments/assets/6ddf2e9d-eec5-4954-8fbf-8d2df3b158ec)
+  
 (img game over)
 
 </th>
@@ -336,7 +335,7 @@ Para ligar, basta clicar nele de novo, ele irá ativar o som e mudar o design pa
 
 ## Video
 <br>
-![aaa (2)](https://github.com/user-attachments/assets/063a2abe-b276-43f4-a340-14f09f65213a)
+
 
 <br>
 
