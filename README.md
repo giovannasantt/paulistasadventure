@@ -376,7 +376,8 @@ Código:
 <thead>
   <th>
 	  
-![Codigo_transicao](https://github.com/user-attachments/assets/59127f4f-56a4-44f8-b499-3b56f8906e92)
+![Codigo_transicao](https://github.com/user-attachments/assets/3833395a-e915-45c5-8b0a-50ddaf24c139)
+
 
 
 </th>
