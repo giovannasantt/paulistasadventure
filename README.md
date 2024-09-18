@@ -28,6 +28,7 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
   <th>
 	  
 ![image](https://github.com/user-attachments/assets/4ed86fb6-f4bc-46df-b9d9-67cf0ef575a5)
+(desenho do magno)
 
 </th>
 </thead>
@@ -57,6 +58,7 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
   <th>
 
 ![image](https://github.com/user-attachments/assets/5b6ae28c-7946-429a-a825-99c0f8881666)
+(desenho policia)
 
 </th>
 </thead>
@@ -138,13 +140,21 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 
 <p>
 	Antes de começar o jogo terá uma tela inicial com um menu de opções, como: começar, configurações e créditos. Dentro das configurações terão as opções: volume, atalhos e brilho.
-	Para o cenário da primeira fase, serão utilizados modelos de prédio adquiridos na Asset store, na segunda fase irá ser utilizado um modelo 3d da internet da Avenida Paulista e para a terceira, modelos 3d de parques para referenciar ao parque Villa Lobos irão ser utilizados, para o funcionamento do jogo faremos com que o jogador esteja sempre andando para um lado, mas o jogador pode mudar o lado que está andando para poder desviar de obstáculos e do policial.
+	Para o cenário da primeira fase, serão utilizados modelos de prédio adquiridos na Asset store, na segunda fase irá ser utilizado um modelo 3d da internet da Avenida Paulista e para a terceira, modelos 3d de parques para referenciar ao parque Villa Lobos irão ser utilizados, para o funcionamento do jogo faremos com que o jogador esteja sempre andando para um lado, mas o jogador pode pular para desviar de obstáculos.
 	Para a textura dos prédios da primeira fase usaremos um materiais com tons de cinza, para o fundo uma Sky box com imagem de uma cidade será utilizada, já na segunda fase mais cores vão ser adicionadas, então mais materiais com cores diferentes serão utilizados, e será adicionado planos para adicionar imagens na fase, a Sky box dessa fase vai ser a mesma da anterior, na terceira fase o cenário estará completamente colorido e mais materiais irão ser adicionados para adicionar mais cores a fase, a Sky box será trocada por uma Sky box com uma paisagem mais aberta e será utilizado modelos de parques para referenciar o parque Villa Lobos.
 
  ![image](https://github.com/user-attachments/assets/335bfd90-580a-4ea4-ad87-3c2a5bb0e6d4)
 
 </p>
 <br>
+
+## Assets
+
+### Cenário
+--
+
+### Obstáculos
+--
 
 ##  MENUS
 <br>
