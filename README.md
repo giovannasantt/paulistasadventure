@@ -28,6 +28,8 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
   <th>
 	  
 ![image](https://github.com/user-attachments/assets/4ed86fb6-f4bc-46df-b9d9-67cf0ef575a5)
+![magno](https://github.com/user-attachments/assets/c1b113be-ae3e-4e93-a716-df42cd9b3e6f)
+
 
 </th>
 </thead>
@@ -57,6 +59,8 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
   <th>
 
 ![image](https://github.com/user-attachments/assets/5b6ae28c-7946-429a-a825-99c0f8881666)
+![policial](https://github.com/user-attachments/assets/ca841e17-133f-454b-8bec-5fdf263c0002)
+
 
 </th>
 </thead>
@@ -156,9 +160,12 @@ Nas 2 primeiras fases foi usado assets parecidos para os cenários, como prédio
 <thead>
   <th>
 	  
-(img predios1)
-(img predios2)
-(img rua)
+![Predios1](https://github.com/user-attachments/assets/35d515a2-9b3f-45c4-8cfb-6e085a9158a6)
+
+![Predios2](https://github.com/user-attachments/assets/eb724684-86ff-4c81-a6e8-67353b4223df)
+
+![Rua](https://github.com/user-attachments/assets/28822cd8-1362-4e3d-88de-4d59791a5a3a)
+
 
 </th>
 </thead>
@@ -170,7 +177,8 @@ Na ultima fase foi usado prédios, ruas e também alguns assets para simular um 
 <thead>
   <th>
 	  
-(img parque)
+![Parque](https://github.com/user-attachments/assets/b2869e1c-2c13-442f-a483-b6473f8dcb1a)
+
 
 </th>
 </thead>
@@ -182,14 +190,15 @@ Nos obstaculos foram usados os seguintes assets:
 <br>
 Barreira de pedra, carrinho de lixo, caçamba e uma cerca de proteção.
 <br>
-Por serem objetos que são mas normais de se encontrarem na rua, eles foram mais utilizados, apenas a barreira de pedra foi utilizada em cima dos predios, já que é possivel encontra-la em cima deles
+Por serem objetos que são mais normais de se encontrarem na rua, eles foram mais utilizados, apenas a barreira de pedra foi utilizada em cima dos predios, já que é possivel encontra-la em cima deles
 
 <br>
 <table>
 <thead>
   <th>
 	  
-(img assetsobs)
+![AssetsObs](https://github.com/user-attachments/assets/4c3072e3-e3de-4a2f-8b94-cc0925606ac7)
+
 
 </th>
 </thead>
@@ -207,7 +216,8 @@ Na imagem de fundo foi colocado uma imagem com alguns grafites, os textos são c
 <thead>
   <th>
 	  
-(img menu principal)
+![Menu](https://github.com/user-attachments/assets/dc934c42-c955-404c-8d95-a06ee34a1049)
+
 
 </th>
 </thead>
@@ -218,7 +228,8 @@ Código:
 <thead>
   <th>
 	  
-(img codigo do menu principal)
+![Codigo_MenuPrincipal](https://github.com/user-attachments/assets/1e7b24d7-316e-4fc7-a27f-d71e923df82d)
+
 
 </th>
 </thead>
@@ -233,7 +244,8 @@ A opção de configuração foi feito dentro pro próprio unity, onde temos a op
 <thead>
   <th>
 	  
-(img menu de config)
+![config](https://github.com/user-attachments/assets/545e7f25-0fcf-4a3d-965f-a0622bfa998a)
+
 
 </th>
 </thead>
@@ -248,7 +260,8 @@ O menu não tem uma imagem de fundo, ele apenas escurece mais o jogo e aparece o
 <thead>
   <th>
 	  
-(img menu de pause)
+![Pause](https://github.com/user-attachments/assets/9b09e40c-c361-4a77-b7ca-ba4668d8af0c)
+
 
 </th>
 </thead>
@@ -259,7 +272,8 @@ Códigos:
 <thead>
   <th>
 	  
-(img codigo do menu de pause)
+![Codigo_pause](https://github.com/user-attachments/assets/2e3e530b-ed4a-44ad-887d-0f3bdc8552b9)
+
 
 </th>
 </thead>
@@ -278,7 +292,8 @@ Caso o jogador perca o jogo, irá aparecer uma tela de game over, onde ela segui
 <thead>
   <th>
 
-(img game over)
+![gameover](https://github.com/user-attachments/assets/3d5e5c30-d3b1-4f2d-8a12-12b1bea0d8bf)
+
 
 </th>
 </thead>
@@ -289,7 +304,8 @@ Código:
 <thead>
   <th>
 	  
-(img codigo do gameover)
+![Codigo_GameOver](https://github.com/user-attachments/assets/b9e4daf4-fcab-4fe2-bf61-2d84d6815380)
+
 
 </th>
 </thead>
@@ -309,7 +325,8 @@ O player irá se movimentar para frente sempre sem apertar nenhum botão/tecla, 
 <thead>
   <th>
 	  
-(img codigo de movimento)
+![Codigo_Movimento](https://github.com/user-attachments/assets/7a639360-5b39-49c7-89ba-15a804641e1f)
+
 
 </th>
 </thead>
@@ -331,11 +348,16 @@ Quando o personagem pular, irá mudar a animação dele, quando ele estiver anda
 <br>
 
 ## Transição
+<br>
+Quando o jogador terminar uma fase, irá carregar uma tela de transição, onde aparecerá onde será a próxima fase
+<br>
  <table>
 <thead>
   <th>
 	  
-(img transição)
+![ADL](https://github.com/user-attachments/assets/160a6a4b-1e33-4c5c-b0ee-8745fe3eeb73)
+![Villa](https://github.com/user-attachments/assets/89d6ee1b-ed1a-493a-8bf1-9cf67466fe71)
+
 
 </th>
 </thead>
@@ -348,7 +370,8 @@ Código:
 <thead>
   <th>
 	  
-(img codigo da transição)
+![Codigo_transicao](https://github.com/user-attachments/assets/59127f4f-56a4-44f8-b499-3b56f8906e92)
+
 
 </th>
 </thead>
@@ -366,7 +389,8 @@ Código:
 <thead>
   <th>
 	  
-(img codigo de som)
+![Codigo_som](https://github.com/user-attachments/assets/0b80ca5f-3681-4d9a-a0ab-a72e1fc585a5)
+
 
 </th>
 </thead>
