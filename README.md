@@ -149,10 +149,52 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 ## Assets
 
 ### Cenário
---
+Nas 2 primeiras fases foi usado assets parecidos para os cenários, como prédios e ruas, o Masp foi um prédio e foi colocado quadrados para simular as partes vermelhas
+
+<br>
+<table>
+<thead>
+  <th>
+	  
+(img predios1)
+(img predios2)
+(img rua)
+
+</th>
+</thead>
+</table>
+<br>
+
+Na ultima fase foi usado prédios, ruas e também alguns assets para simular um parque, como grama, arvores, e uma pequena construção
+<table>
+<thead>
+  <th>
+	  
+(img parque)
+
+</th>
+</thead>
+</table>
+<br>
 
 ### Obstáculos
---
+Nos obstaculos foram usados os seguintes assets:
+<br>
+Barreira de pedra, carrinho de lixo, caçamba e uma cerca de proteção.
+<br>
+Por serem objetos que são mas normais de se encontrarem na rua, eles foram mais utilizados, apenas a barreira de pedra foi utilizada em cima dos predios, já que é possivel encontra-la em cima deles
+
+<br>
+<table>
+<thead>
+  <th>
+	  
+(img assetsobs)
+
+</th>
+</thead>
+</table>
+<br>
 
 ##  MENUS
 <br>
@@ -160,7 +202,7 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 ### MENU PRINCIPAL
 No menu principal, foi criado em uma cena nova com um canvas do unity e nele foi colocado os botões de jogar, sair, configurações e som.
 <br>
-Na imagem de fundo foi colocado uma imagem com alguns grafites, os textos são com uma fonte que represente mais "as ruas", tudo isso pra combinar com a ideia do jogo
+Na imagem de fundo foi colocado uma imagem com alguns grafites, os textos são com uma fonte que represente mais o estilo street, tudo isso pra combinar com a ideia do jogo
  <table>
 <thead>
   <th>
@@ -176,7 +218,7 @@ Código:
 <thead>
   <th>
 	  
-(img codigo)
+(img codigo do menu principal)
 
 </th>
 </thead>
@@ -217,7 +259,7 @@ Códigos:
 <thead>
   <th>
 	  
-(img codigo)
+(img codigo do menu de pause)
 
 </th>
 </thead>
@@ -235,8 +277,7 @@ Caso o jogador perca o jogo, irá aparecer uma tela de game over, onde ela segui
  <table>
 <thead>
   <th>
-	![gameover](https://github.com/user-attachments/assets/6ddf2e9d-eec5-4954-8fbf-8d2df3b158ec)
-  
+
 (img game over)
 
 </th>
@@ -248,24 +289,27 @@ Código:
 <thead>
   <th>
 	  
-(img codigo)
+(img codigo do gameover)
 
 </th>
 </thead>
 </table>
 
-Caso o jogador caia até um limite ou ele colidir com algum obstáculo, irá abrir o menu de game over e setar o timescale para 0
+Caso o jogador caia até um limite ou ele colidir com algum obstáculo, irá abrir o menu de game over e setar o timescale para 0, que irá congelar o jogo
 <br>
 Caso o jogador aperte o botão de reiniciar, o jogador irá voltar para o menu principal
 <br>
 
 ## Movimento:
+<br>
+O player irá se movimentar para frente sempre sem apertar nenhum botão/tecla, ele apenas usará a tecla espaço para pular dos prédios e desviar dos obstáculos 
 
+<br>
  <table>
 <thead>
   <th>
 	  
-(img codigo)
+(img codigo de movimento)
 
 </th>
 </thead>
@@ -304,7 +348,7 @@ Código:
 <thead>
   <th>
 	  
-(img codigo)
+(img codigo da transição)
 
 </th>
 </thead>
@@ -313,7 +357,7 @@ Código:
 Quando carregar a transição, basta o jogador apertar qualquer tecla para seguir para a próxima fase
 
 ## Som
-No menu principal, é possível ligar e desligar o som, aumentar ou diminuir, essa opção foi feita separa, o volume foi configurado no próprio unity
+No menu principal, é possível ligar e desligar o som, aumentar ou diminuir, essa opção foi feita separada, o volume foi configurado no próprio unity
 <br>
 Já a parte de desligar/ligar o som foi feita por um script, onde se encontra um botão no menu que é possível ligar/desligar
 <br>
@@ -322,7 +366,7 @@ Código:
 <thead>
   <th>
 	  
-(img codigo)
+(img codigo de som)
 
 </th>
 </thead>
