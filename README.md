@@ -336,7 +336,7 @@ Para ligar, basta clicar nele de novo, ele irá ativar o som e mudar o design pa
 
 ## Video
 <br>
-![1](https://github.com/user-attachments/assets/57864bd6-58e4-4961-b7ff-9d48b8b20eab)
+![image](https://github.com/user-attachments/assets/57864bd6-58e4-4961-b7ff-9d48b8b20eab)
 
 <br>
 
