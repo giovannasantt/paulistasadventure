@@ -26,8 +26,11 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
  <table>
 <thead>
   <th>
-	  
+	 
+	  conceito:
 ![image](https://github.com/user-attachments/assets/4ed86fb6-f4bc-46df-b9d9-67cf0ef575a5)
+	  
+	  final:
 ![magno](https://github.com/user-attachments/assets/c1b113be-ae3e-4e93-a716-df42cd9b3e6f)
 
 
@@ -57,8 +60,11 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
    <table>
 <thead>
   <th>
-
+			
+	  conceito:
 ![image](https://github.com/user-attachments/assets/5b6ae28c-7946-429a-a825-99c0f8881666)
+	  		
+	  final:
 ![policial](https://github.com/user-attachments/assets/ca841e17-133f-454b-8bec-5fdf263c0002)
 
 
@@ -403,7 +409,7 @@ Para ligar, basta clicar nele de novo, ele irá ativar o som e mudar o design pa
 
 ## Video
 <br>
-
+Por conta do peso, está nos arquivos junto dos códigos
 
 <br>
 
