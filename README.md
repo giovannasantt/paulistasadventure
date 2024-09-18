@@ -148,27 +148,60 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 
 ##  MENUS
 <br>
+
 ### MENU PRINCIPAL
 No menu principal, foi criado em uma cena nova com um canvas do unity e nele foi colocado os botões de jogar, sair, configurações e som.
 Na imagem de fundo foi colocado uma imagem com alguns grafites, os textos são com uma fonte que represente mais "as ruas", tudo isso pra combinar com a ideia do jogo
-(Img do menu)
+ <table>
+<thead>
+  <th>
+	  
+(img menu principal)
+
+</th>
+</thead>
+</table>
 <br>
 Código:
+ <table>
+<thead>
+  <th>
+	  
 (img codigo)
+
+</th>
+</thead>
+</table>
 <br>
 Ao clicar no botão jogar, carregará a 1° fase (ou 1° cena) do jogo, ou seja, dará início ao jogo
 Ao clicar em sair, o jogador fechará o jogo
 A opção de configuração foi feito dentro pro próprio unity, onde temos a opção de volume, onde o jogador controlará o volume do som do jogo
 (img do menu de configuração)
-
 <br>
+
 ### MENU DE PAUSE
 O menu de pause foi feito com um canvas do unity e foi colocado apenas o botão de continuar, esse não precisou ser criado uma cena nova para ele, foi feito dentro das próprias cenas do jogo.
 O menu não tem uma imagem de fundo, ele apenas escurece mais o jogo e aparece o texto "pausado" e o botão de continuar, esses com o mesma fonte de texto do menu
-(Img do pause)
+ <table>
+<thead>
+  <th>
+	  
+(img menu de pause)
+
+</th>
+</thead>
+</table>
 <br>
 Códigos:
+ <table>
+<thead>
+  <th>
+	  
 (img codigo)
+
+</th>
+</thead>
+</table>
 <br>
 Ao apertar a tecla Esc (ou Escape), o jogo irá pausar e irá abrir o menu, o timescale do jogo irá pra 0, ou seja, o tempo do jogo não irá continuar e tudo ficará parado
 Caso a tecla seja apertada de novo (com o menu aberto), o jogo irá reiniciar do ponto onde parou, o timescale do jogo voltará para 1, ou seja, o jogo voltará ao tempo normal dele
@@ -177,9 +210,26 @@ Caso o botão de continuar seja apertado, irá acontecer a mesma coisa que a tec
 
 ### GAME OVER
 Caso o jogador perca o jogo, irá aparecer uma tela de game over, onde ela seguirá quase a mesma idéia do menu principal, onde haverá apenas o botão de reiniciar
+ <table>
+<thead>
+  <th>
+	  
+(img game over)
+
+</th>
+</thead>
+</table>
 <br>
 Código:
+ <table>
+<thead>
+  <th>
+	  
 (img codigo)
+
+</th>
+</thead>
+</table>
 
 Caso o jogador caia até um limite ou ele colidir com algum obstáculo, irá abrir o menu de game over e setar o timescale para 0
 Caso o jogador aperte o botão de reiniciar, o jogador irá voltar para o menu principal
