@@ -323,10 +323,12 @@ O jogo já irá começar com o som ativado, para desativar basta clicar no botã
 <br>
 Para ligar, basta clicar nele de novo, ele irá ativar o som e mudar o design para indicar que está ligado
 <br>
+
 ## Video
 <br>
 --
 <br>
+
 ## Links
 
 > ### Jogo
