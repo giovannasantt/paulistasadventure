@@ -184,7 +184,7 @@ Código:
 </thead>
 </table>
 <br>
-Ao clicar no botão jogar, carregará a 1° fase (ou 1° cena) do jogo, ou seja, dará início ao jogo
+Ao clicar no botão jogar, carregará a 1° fase do jogo, ou seja, dará início ao jogo
 <br>
 Ao clicar em sair, o jogador fechará o jogo
 <br>
@@ -336,7 +336,8 @@ Para ligar, basta clicar nele de novo, ele irá ativar o som e mudar o design pa
 
 ## Video
 <br>
---
+![1](https://github.com/user-attachments/assets/57864bd6-58e4-4961-b7ff-9d48b8b20eab)
+
 <br>
 
 ## Links
