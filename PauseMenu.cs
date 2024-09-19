@@ -17,14 +17,14 @@ public class PauseMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape)) // quando a tecla for apertada, pausa o jogo
+        if (Input.GetKeyDown(KeyCode.Escape)) // quando a tecla for apertada, pausará o jogo
         {
-            if (pauseMenu.gameObject.activeSelf) //quando a tecla n�o for apertada, n�o ativar o menu e deixar o jogo continuar
+            if (pauseMenu.gameObject.activeSelf) //quando a tecla não for apertada, não ativará o menu e deixará o jogo continuar
             {
                 pauseMenu.gameObject.SetActive(false);
                 Time.timeScale = 1f;
             }
-            else // quando for apertada, ativar menu e pausar o jogo
+            else // quando for apertada, ativará menu e pausará o jogo
             {
                 pauseMenu.gameObject.SetActive(true);
                 Time.timeScale = 0f;
@@ -32,7 +32,7 @@ public class PauseMenu : MonoBehaviour
         }
 
     }
-    public void ContinuarJogo() // quando o bot�o do menu for apertado, fazer o jogo voltar/continuar
+    public void ContinuarJogo() // quando o botão do menu for apertado, irá fazer o jogo voltar/continuar
     {
         pauseMenu.gameObject.SetActive(false);
         Time.timeScale = 1f;
