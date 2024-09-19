@@ -65,7 +65,8 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
 ![image](https://github.com/user-attachments/assets/5b6ae28c-7946-429a-a825-99c0f8881666)
 	  		
 	  final:
-![policial](https://github.com/user-attachments/assets/ca841e17-133f-454b-8bec-5fdf263c0002)
+![Policial](https://github.com/user-attachments/assets/c16c4294-c7d5-42a7-a05c-c75aec3e4aee)
+
 
 
 </th>
@@ -117,7 +118,17 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 À medida que Magno avança, a cidade começa a ganhar cor. Esse cenário marca o despertar da consciência social, por se comparar com os moradores e o alto padrão de vida, percebendo que mesmo lutando contra o preconceito e a falta de oportunidade todos os dias, ainda haverá desigualdade social, com isso magno se sente ainda mais incentivado a lutar contra o sistema e apoiar a resistência dos cidadãos. As cores começam a se infiltrar nas paredes e estruturas, simbolizando o impacto das ações de Magno e seu esforço em dar vida à cidade.
 
  •	Terceira Cena: Do Alto da Lapa até o Parque Villa-Lobos:
-	O cenário final é uma São Paulo completamente transformada. A cidade, agora vibrante e colorida, reflete a esperança e a mudança trazida pela luta de Magno. As cores estão por toda parte, e os grafites tomam conta das paredes, celebrando a liberdade de expressão e a justiça social.
+<table>
+<thead>
+<th>
+	
+ ![image](https://github.com/user-attachments/assets/09f33526-532f-49f3-9ac4-60513ee5f441)
+
+</th>
+</thead>
+</table>
+ 
+ O cenário final é uma São Paulo completamente transformada. A cidade, agora vibrante e colorida, reflete a esperança e a mudança trazida pela luta de Magno. As cores estão por toda parte, e os grafites tomam conta das paredes, celebrando a liberdade de expressão e a justiça social.
 
 </p>
 
@@ -142,6 +153,31 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 	Nas mecânicas, o jogo é inspirado em "Vector", com uma jogabilidade focada em movimento rápido e fugas dinâmicas. Magno usa seu skate para realizar manobras, ganhar velocidade e escapar dos policiais que tentam silenciá-lo. A mecânica de pichação é central, permitindo que os jogadores deixem sua marca nas ruas enquanto avançam pelos níveis.
 	A ambientação, os cenários, e as referências visuais e mecânicas estão profundamente interligados para criar uma experiência coesa e envolvente. O estilo visual não apenas define a aparência do jogo, mas também serve como uma metáfora para a narrativa de Magno e sua missão de trazer cor e vida à cidade. As mecânicas de skate e pichação complementam esse visual, oferecendo uma jogabilidade que é tanto fluida quanto significativa. À medida que o jogador progride, ele não apenas testemunha a transformação do cenário, mas participa ativamente dela, tornando a estética do jogo e a jogabilidade inseparáveis da história que está sendo contada.
 </p>
+
+ 
+ ### Músicas utilizadas
+
+> Música de iniciação: Rhytm de Favela
+
+- A escolha da música Rhythm de Favela, de Rhytm Boys, como trilha sonora do menu de iniciação se justifica pela sua fusão entre música eletrônica e funk, estilos que representam bem o contexto urbano e periférico da cidade de São Paulo, onde a história do jogo se desenrola. A mistura entre o ritmo acelerado da música eletrônica e as batidas marcantes do funk paulista traz uma energia vibrante, alinhada com o espírito jovem e rebelde do protagonista, Magno.
+
+> Música do menu: Zoio de lua
+
+- A escolha de Zoio de Lula, de Charlie Brown Jr., como trilha sonora para o menu do jogo, reflete a energia rebelde e o espírito de liberdade que permeiam a jornada de Magno. A música, com sua mistura única de rock, rap e reggae, capta a essência da cultura de rua, tão presente na estética e no tema do jogo, além de ser uma homenagem direta ao estilo de vida skatista e urbano que define o protagonista.
+
+
+> Música da primeira fase: 
+
+- A escolha da música Imprevisto, de Yago Oproprio, para a trilha sonora da primeira fase do jogo, se justifica pela sua conexão direta com as dificuldades e reviravoltas que Magno enfrenta durante sua jornada. Representando os novos desafios que ele encontra à medida que sua luta se intensifica. A música, com suas letras profundas e reflexivas, aborda a imprevisibilidade da vida, o que se alinha perfeitamente com os obstáculos e perseguições que o protagonista sofre enquanto tenta avançar.
+
+> Música da segunda fase: Proibida pra Mim (Garzon)
+
+- A escolha da música Proibida pra Mim (Garzon) de Charlie Brown Jr. como trilha sonora da segunda fase do jogo é altamente simbólica e reforça a conexão entre o protagonista, Magno, e suas influências culturais. A canção, com sua mistura de rock e elementos do reggae, é um hino de rebeldia e liberdade, temas centrais no jogo. A letra e o estilo musical capturam o espírito de resistência que Magno incorpora, tanto em suas ações de grafite quanto em sua luta contra a injustiça.
+
+> Música da terceira fase: Desculpa Doutor
+
+- A escolha da música Desculpa Doutor, de San Joe, para a trilha sonora da terceira fase do jogo, é fundamental para capturar a essência do ponto mais avançado da jornada de Magno. Nesta fase, a cidade de São Paulo está completamente transformada, cheia de cor e vida, simbolizando a vitória da resistência e da expressão pessoal. Desculpa Doutor carrega em suas letras uma crítica social afiada, desafiando as autoridades e o status quo, o que está diretamente alinhado com o espírito de Magno em sua luta contra a opressão policial e social.
+
 <br>
 
 ## Jogabilidade
@@ -159,12 +195,12 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 ## Assets
 
 ### Cenário
-Nas 2 primeiras fases foi usado assets parecidos para os cenários, como prédios e ruas, o Masp foi um prédio e foi colocado quadrados para simular as partes vermelhas
+Nas 2 primeiras fases foi usado assets parecidos para os cenários, como prédios e ruas, o Masp foi um prédio e foi colocado quadrados para simular as partes vermelhas.
 
 <br>
 <table>
 <thead>
-  <th>
+<th>
 	  
 ![Predios1](https://github.com/user-attachments/assets/35d515a2-9b3f-45c4-8cfb-6e085a9158a6)
 
@@ -172,19 +208,17 @@ Nas 2 primeiras fases foi usado assets parecidos para os cenários, como prédio
 
 ![Rua](https://github.com/user-attachments/assets/28822cd8-1362-4e3d-88de-4d59791a5a3a)
 
-
 </th>
 </thead>
 </table>
 <br>
 
-Na ultima fase foi usado prédios, ruas e também alguns assets para simular um parque, como grama, arvores, e uma pequena construção
+Na última fase foi usado prédios, ruas e também alguns assets para simular um parque, como grama, arvores, e uma pequena construção.
 <table>
 <thead>
-  <th>
+<th>
 	  
 ![Parque](https://github.com/user-attachments/assets/b2869e1c-2c13-442f-a483-b6473f8dcb1a)
-
 
 </th>
 </thead>
@@ -192,16 +226,16 @@ Na ultima fase foi usado prédios, ruas e também alguns assets para simular um 
 <br>
 
 ### Obstáculos
-Nos obstaculos foram usados os seguintes assets:
+
+Nos obstáculos foram usados os seguintes assets:
 <br>
-Barreira de pedra, carrinho de lixo, caçamba e uma cerca de proteção.
-<br>
-Por serem objetos que são mais normais de se encontrarem na rua, eles foram mais utilizados, apenas a barreira de pedra foi utilizada em cima dos predios, já que é possivel encontra-la em cima deles
+
+ •	Barreira de pedra, carrinho de lixo, caçamba e uma cerca de proteção. Por serem objetos que são mais normais de se encontrarem na rua, eles foram mais utilizados, apenas a barreira de pedra foi utilizada em cima dos predios, já que é possivel encontrá-la em cima deles.
 
 <br>
 <table>
 <thead>
-  <th>
+<th>
 	  
 ![AssetsObs](https://github.com/user-attachments/assets/4c3072e3-e3de-4a2f-8b94-cc0925606ac7)
 
@@ -211,88 +245,93 @@ Por serem objetos que são mais normais de se encontrarem na rua, eles foram mai
 </table>
 <br>
 
-##  MENUS
+##  Menus
 <br>
 
-### MENU PRINCIPAL
-No menu principal, foi criado em uma cena nova com um canvas do unity e nele foi colocado os botões de jogar, sair, configurações e som.
+### Menu Principal
+ •	No menu principal, foi criado em uma cena nova com um canvas do unity e nele foi colocado os botões de jogar, sair, configurações e som.
 <br>
-Na imagem de fundo foi colocado uma imagem com alguns grafites, os textos são com uma fonte que represente mais o estilo street, tudo isso pra combinar com a ideia do jogo
- <table>
+ •	Na imagem de fundo foi colocado uma imagem com alguns grafites, os textos são com uma fonte que represente mais o estilo street, tudo isso pra combinar com a ideia do jogo.
+<table>
 <thead>
-  <th>
+<th>
 	  
 ![Menu](https://github.com/user-attachments/assets/dc934c42-c955-404c-8d95-a06ee34a1049)
 
-
 </th>
 </thead>
 </table>
 <br>
-Código:
- <table>
+
+### Código:
+
+<table>
 <thead>
-  <th>
+<th>
 	  
 ![Codigo_MenuPrincipal](https://github.com/user-attachments/assets/1e7b24d7-316e-4fc7-a27f-d71e923df82d)
 
-
 </th>
 </thead>
 </table>
 <br>
-Ao clicar no botão jogar, carregará a 1° fase do jogo, ou seja, dará início ao jogo
+
+ •	Ao clicar no botão jogar, carregará a 1° fase do jogo, ou seja, dará início ao jogo;
 <br>
-Ao clicar em sair, o jogador fechará o jogo
+
+ •	Ao clicar em sair, o jogador fechará o jogo;
 <br>
-A opção de configuração foi feito dentro pro próprio unity, onde temos a opção de volume, onde o jogador controlará o volume do som do jogo
- <table>
+
+ •	A opção de configuração foi feito dentro para o próprio unity, onde temos a opção de volume, onde o jogador controlará o volume do som do jogo.
+<table>
 <thead>
-  <th>
+<th>
 	  
 ![config](https://github.com/user-attachments/assets/545e7f25-0fcf-4a3d-965f-a0622bfa998a)
 
-
 </th>
 </thead>
 </table>
 <br>
 
-### MENU DE PAUSE
-O menu de pause foi feito com um canvas do unity e foi colocado apenas o botão de continuar, esse não precisou ser criado uma cena nova para ele, foi feito dentro das próprias cenas do jogo.
+### Menu de Pause
+ •	O menu de pause foi feito com um canvas do unity e foi colocado apenas o botão de continuar, não foi necessário ser criado uma cena nova para ele, foi feito dentro das próprias cenas do jogo.
 <br>
-O menu não tem uma imagem de fundo, ele apenas escurece mais o jogo e aparece o texto "pausado" e o botão de continuar, esses com o mesma fonte de texto do menu
- <table>
+
+ •	O menu não tem uma imagem de fundo, ele apenas escurece mais o jogo e aparece o texto "pausado" e o botão de continuar, esses com o mesma fonte de texto do menu.
+ <br>
+ 
+<table>
 <thead>
-  <th>
+<th>
 	  
 ![Pause](https://github.com/user-attachments/assets/9b09e40c-c361-4a77-b7ca-ba4668d8af0c)
 
-
 </th>
 </thead>
 </table>
 <br>
-Códigos:
- <table>
+
+### Códigos:
+
+<table>
 <thead>
-  <th>
+<th>
 	  
 ![Codigo_pause](https://github.com/user-attachments/assets/2e3e530b-ed4a-44ad-887d-0f3bdc8552b9)
 
-
 </th>
 </thead>
 </table>
 <br>
-Ao apertar a tecla Esc (ou Escape), o jogo irá pausar e irá abrir o menu, o timescale do jogo irá pra 0, ou seja, o tempo do jogo não irá continuar e tudo ficará parado
+ •	Ao apertar a tecla Esc (ou Escape), o jogo irá pausar e irá abrir o menu, o timescale do jogo irá pra 0, ou seja, o tempo do jogo não irá continuar e tudo ficará parado;
 <br>
-Caso a tecla seja apertada de novo (com o menu aberto), o jogo irá reiniciar do ponto onde parou, o timescale do jogo voltará para 1, ou seja, o jogo voltará ao tempo normal dele
+ •	Caso a tecla seja apertada de novo (com o menu aberto), o jogo irá reiniciar do ponto onde parou, o timescale do jogo voltará para 1, ou seja, o jogo voltará ao tempo normal dele;
 <br>
-Caso o botão de continuar seja apertado, irá acontecer a mesma coisa que a tecla esc seja apertada de novo
+ •	Caso o botão de continuar seja apertado, irá acontecer a mesma coisa que a tecla esc seja apertada de novo.
 <br>
 
-### GAME OVER
+### Game Over
 Caso o jogador perca o jogo, irá aparecer uma tela de game over, onde ela seguirá quase a mesma idéia do menu principal, onde haverá apenas o botão de reiniciar
  <table>
 <thead>
@@ -305,10 +344,12 @@ Caso o jogador perca o jogo, irá aparecer uma tela de game over, onde ela segui
 </thead>
 </table>
 <br>
-Código:
- <table>
+
+### Código:
+
+<table>
 <thead>
-  <th>
+<th>
 	  
 ![Codigo_GameOver](https://github.com/user-attachments/assets/b9e4daf4-fcab-4fe2-bf61-2d84d6815380)
 
@@ -317,16 +358,17 @@ Código:
 </thead>
 </table>
 
-Caso o jogador caia até um limite ou ele colidir com algum obstáculo, irá abrir o menu de game over e setar o timescale para 0, que irá congelar o jogo
+ •	Caso o jogador caia até um limite ou ele colidir com algum obstáculo, irá abrir o menu de game over e setar o timescale para 0, que irá congelar o jogo;
 <br>
-Caso o jogador aperte o botão de reiniciar, o jogador irá voltar para o menu principal
+ •	Caso o jogador aperte o botão de reiniciar, o jogador irá voltar para o menu principal.
 <br>
 
 ## Movimento:
 <br>
-O player irá se movimentar para frente sempre sem apertar nenhum botão/tecla, ele apenas usará a tecla espaço para pular dos prédios e desviar dos obstáculos 
 
+O player irá se movimentar para frente sempre sem apertar nenhum botão/tecla, ele apenas usará a tecla espaço para pular dos prédios e desviar dos obstáculos 
 <br>
+
  <table>
 <thead>
   <th>
@@ -338,25 +380,31 @@ O player irá se movimentar para frente sempre sem apertar nenhum botão/tecla, 
 </thead>
 </table>
 <br>
- • No Start:
+
+### No Start:
+
  <br>
-O timescale já começa no 1
+ •	O timescale já começa no 1;
 <br>
-O vector 3 tem seus valores definidos
+ •	O vector 3 tem seus valores definidos;
 <br>
-Define a posição do personagem de acordo com o vector 3
+ •	Define a posição do personagem de acordo com o vector 3.
 <br>
- • No uptade:
+
+ ### No uptade:
+ 
  <br>
-Caso o TimeScale continue sendo 1, o personagem continuará andando para frente e pulando, isso até chegar no limite imposto que quando alcançado, carregará uma nova cena, caso o TimeScale seja 0, pausara o personagem
+ •	Caso o TimeScale continue sendo 1, o personagem continuará andando para frente e pulando, isso até chegar no limite imposto que quando alcançado, carregará uma nova cena, caso o TimeScale seja 0, pausara o personagem;
 <br>
-Quando o personagem pular, irá mudar a animação dele, quando ele estiver andando será outra animação
+ •	Quando o personagem pular, irá mudar a animação dele, quando ele estiver andando será outra animação.
 <br>
 
 ## Transição
 <br>
-Quando o jogador terminar uma fase, irá carregar uma tela de transição, onde aparecerá onde será a próxima fase
+
+Quando o jogador terminar uma fase, irá carregar uma tela de transição, onde aparecerá onde será a próxima fase.
 <br>
+
  <table>
 <thead>
   <th>
@@ -369,9 +417,10 @@ Quando o jogador terminar uma fase, irá carregar uma tela de transição, onde 
 </thead>
 </table>
 <br>
-Quando o jogador terminar uma fase, irá carregar uma tela de transição, onde aparecerá onde será a próxima fase
-<br>
-Código:
+
+
+### Código:
+
  <table>
 <thead>
   <th>
@@ -384,15 +433,15 @@ Código:
 </thead>
 </table>
 <br>
-Quando carregar a transição, basta o jogador apertar qualquer tecla para seguir para a próxima fase
+
+Quando carregar a transição, basta o jogador apertar qualquer tecla para seguir para a próxima fase.
 
 ## Som
-No menu principal, é possível ligar e desligar o som, aumentar ou diminuir, essa opção foi feita separada, o volume foi configurado no próprio unity
+No menu principal, é possível ligar e desligar o som, aumentar ou diminuir, essa opção foi feita separada, o volume foi configurado no próprio unity. Já a parte de desligar/ligar o som foi feita por um script, onde se encontra um botão no menu que é possível ligar/desligar.
 <br>
-Já a parte de desligar/ligar o som foi feita por um script, onde se encontra um botão no menu que é possível ligar/desligar
-<br>
-Código:
- <table>
+
+### Código:
+<table>
 <thead>
   <th>
 	  
@@ -403,14 +452,13 @@ Código:
 </thead>
 </table>
 <br>
-O jogo já irá começar com o som ativado, para desativar basta clicar no botão, com isso ele irá desligar o som e mudar o design para indicar que desligou
-<br>
-Para ligar, basta clicar nele de novo, ele irá ativar o som e mudar o design para indicar que está ligado
+
+O jogo já irá começar com o som ativado, para desativar basta clicar no botão, com isso ele irá desligar o som e mudar o design para indicar que desligou. Para ligar, basta clicar nele de novo, ele irá ativar o som e mudar o design para indicar que está ligado.
 <br>
 
 ## Video
 <br>
-Por conta do peso, está nos arquivos junto dos códigos
+Por conta do peso, está nos arquivos junto dos códigos.
 
 <br>
 
