@@ -14,7 +14,7 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
 ## História 
 
 <p>
-  O jogo se inicia após Magno grafitar o Masp (Museu de Arte de São Paulo) e ser pego em flagrante por policiais da região. Então Magno tenta buscar maneiras de fugir de seus inimigos, fazendo parkour entre as construções e prédios da grande Avenida Paulista, se esquivando e usando o skate a seu favor. O jogo se encerra quando o protagonista atravessa o percurso (do MASP até o Villa-Lobos) e consegue chegar no parque Villa-Lobos, no final do jogo é mostrada uma cutscene do protagonista refletindo sobre seus atos e percebendo que mesmo com a sua revolta pessoal, não vale a pena fazer da sua arte violência, e que o melhor caminho é lutar contra o preconceito públicamente, de forma legal e incentivando outros jovens a fazer arte e compartilha-la com autorização e consciência.
+  O jogo se inicia após Magno grafitar o Masp (Museu de Arte de São Paulo) e ser pego em flagrante por policiais da região, causando um mal entendido, onde os policiais pensaram que por Magno ser um jovem não branco, pobre e periférico estava pixando sem autorização. Então Magno tenta buscar maneiras de fugir de seus inimigos, fazendo parkour entre as construções e prédios da grande Avenida Paulista, se esquivando e usando o skate a seu favor. O jogo se encerra quando o protagonista atravessa o percurso (do MASP até o Villa-Lobos) e consegue chegar no parque Villa-Lobos, no final do jogo é mostrada uma cutscene do protagonista refletindo sobre seus atos e percebendo que mesmo com a sua revolta pessoal, não vale a pena fazer da sua arte violência, e que o melhor caminho é lutar contra o preconceito públicamente, de forma legal e incentivando outros jovens a fazer arte e compartilha-la com autorização e consciência.
   </p>
   <br>
 
@@ -31,7 +31,7 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
 ![image](https://github.com/user-attachments/assets/4ed86fb6-f4bc-46df-b9d9-67cf0ef575a5)
 	  
 	  final:
-![magno](https://github.com/user-attachments/assets/c1b113be-ae3e-4e93-a716-df42cd9b3e6f)
+![Magno](https://github.com/user-attachments/assets/6d376150-e16e-4a9e-9de6-ed9bf9e348b2)
 
 
 </th>
@@ -55,7 +55,7 @@ Feito por: Guilherme Fonseca; Giovanna Santana; Gabriel Lima; Gabriel Barbosa
 <br>
 
 ### Inimigos
-<p>  Os inimigos principais do protagonista, os policiais não têm ligação parental nenhuma com Magno, eles unicamente o perseguem a fim de prendê-lo por grafitar as ruas da cidade e calá-lo. 
+<p>  Os inimigos principais do protagonista, os policiais não têm ligação parental nenhuma com Magno, eles unicamente o perseguem a fim de prendê-lo por grafitar as ruas da cidade e o impossibilitar de se expressar artísticamente. 
   Os personagens têm a aparência de policiais genéricos, com a cor da pele branca, cabelos pretos e altura média. Sua paleta de cores tem como principais o cinza e preto (cores do uniforme policial de São Paulo), além de ter tons “sem vida”, fazendo conexão com a falta de personalidade e atenção policial (por serem responsáveis pela decadência da vida de Magno).
    <table>
 <thead>
@@ -114,7 +114,7 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 </table>
 	
 
-À medida que Magno avança, a cidade começa a ganhar cor. Esse cenário marca o despertar da consciência social e a resistência dos cidadãos. As cores começam a se infiltrar nas paredes e estruturas, simbolizando o impacto das ações de Magno e seu esforço em dar vida à cidade.
+À medida que Magno avança, a cidade começa a ganhar cor. Esse cenário marca o despertar da consciência social, por se comparar com os moradores e o alto padrão de vida, percebendo que mesmo lutando contra o preconceito e a falta de oportunidade todos os dias, ainda haverá desigualdade social, com isso magno se sente ainda mais incentivado a lutar contra o sistema e apoiar a resistência dos cidadãos. As cores começam a se infiltrar nas paredes e estruturas, simbolizando o impacto das ações de Magno e seu esforço em dar vida à cidade.
 
  •	Terceira Cena: Do Alto da Lapa até o Parque Villa-Lobos:
 	O cenário final é uma São Paulo completamente transformada. A cidade, agora vibrante e colorida, reflete a esperança e a mudança trazida pela luta de Magno. As cores estão por toda parte, e os grafites tomam conta das paredes, celebrando a liberdade de expressão e a justiça social.
@@ -147,7 +147,7 @@ Esse cenário inicial retrata uma São Paulo opaca e envelhecida, sem vida e sem
 ## Jogabilidade
 
 <p>
-	Antes de começar o jogo terá uma tela inicial com um menu de opções, como: começar, configurações e créditos. Dentro das configurações terão as opções: volume, atalhos e brilho.
+	Antes de começar o jogo terá uma tela inicial com um menu de opções, como: começar, configurações e sair. Dentro das configurações terão as opções: volume e atalhos.
 	Para o cenário da primeira fase, serão utilizados modelos de prédio adquiridos na Asset store, na segunda fase irá ser utilizado um modelo 3d da internet da Avenida Paulista e para a terceira, modelos 3d de parques para referenciar ao parque Villa Lobos irão ser utilizados, para o funcionamento do jogo faremos com que o jogador esteja sempre andando para um lado, mas o jogador pode pular para desviar de obstáculos.
 	Para a textura dos prédios da primeira fase usaremos um materiais com tons de cinza, para o fundo uma Sky box com imagem de uma cidade será utilizada, já na segunda fase mais cores vão ser adicionadas, então mais materiais com cores diferentes serão utilizados, e será adicionado planos para adicionar imagens na fase, a Sky box dessa fase vai ser a mesma da anterior, na terceira fase o cenário estará completamente colorido e mais materiais irão ser adicionados para adicionar mais cores a fase, a Sky box será trocada por uma Sky box com uma paisagem mais aberta e será utilizado modelos de parques para referenciar o parque Villa Lobos.
 
